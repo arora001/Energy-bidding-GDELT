@@ -1,0 +1,684 @@
+2025-05-02 23:20:28,366 - INFO - Successfully imported from config module
+2025-05-03 04:53:44,931 - INFO - Successfully imported from config module
+2025-05-03 04:54:18,429 - INFO - Successfully imported from config module
+2025-05-03 04:54:20,744 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 04:54:20,746 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 04:57:58,750 - INFO - Successfully imported from config module
+2025-05-03 04:58:00,500 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 04:58:00,502 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 04:59:35,913 - INFO - Successfully imported from config module
+2025-05-03 04:59:37,419 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 04:59:37,421 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:16:10,011 - INFO - Successfully imported from config module
+2025-05-03 05:16:11,663 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:16:11,665 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:19:04,186 - INFO - Successfully imported from config module
+2025-05-03 05:19:05,846 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:19:05,848 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:25:08,644 - INFO - Successfully imported from config module
+2025-05-03 05:25:10,258 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:25:10,261 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:25:10,266 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:25:10,275 - INFO - Random split created with 26412 test samples
+2025-05-03 05:25:10,281 - INFO - Training data: 105160 rows
+2025-05-03 05:25:10,281 - INFO - Testing data: 26412 rows
+2025-05-03 05:25:10,652 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:25:10,653 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:25:10,658 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:25:10,665 - INFO - Selected test months by year:
+2025-05-03 05:25:10,665 - INFO -   2020: ['October', 'November']
+2025-05-03 05:25:10,665 - INFO -   2021: ['October', 'November']
+2025-05-03 05:25:10,665 - INFO -   2022: ['May', 'August']
+2025-05-03 05:25:10,665 - INFO -   2023: ['February', 'September']
+2025-05-03 05:25:10,674 - INFO - Training data: 108340 rows
+2025-05-03 05:25:10,674 - INFO - Testing data: 23232 rows
+2025-05-03 05:34:46,366 - INFO - Successfully imported from config module
+2025-05-03 05:34:48,018 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:34:48,020 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:48,024 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:34:48,032 - INFO - Random split created with 26412 test samples
+2025-05-03 05:34:48,037 - INFO - Training data: 105160 rows
+2025-05-03 05:34:48,037 - INFO - Testing data: 26412 rows
+2025-05-03 05:34:48,401 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:34:48,402 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:48,406 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:34:48,414 - INFO - Selected test months by year:
+2025-05-03 05:34:48,414 - INFO -   2020: ['October', 'November']
+2025-05-03 05:34:48,414 - INFO -   2021: ['October', 'November']
+2025-05-03 05:34:48,414 - INFO -   2022: ['May', 'August']
+2025-05-03 05:34:48,414 - INFO -   2023: ['February', 'September']
+2025-05-03 05:34:48,422 - INFO - Training data: 108340 rows
+2025-05-03 05:34:48,422 - INFO - Testing data: 23232 rows
+2025-05-03 05:34:48,780 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:34:48,782 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:48,786 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:34:48,884 - INFO - Training data: 105263 rows
+2025-05-03 05:34:48,884 - INFO - Testing data: 26309 rows
+2025-05-03 05:34:49,233 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:34:49,233 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,234 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,234 - INFO - Random split created with 0 test samples
+2025-05-03 05:34:49,235 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,235 - INFO - Testing data: 0 rows
+2025-05-03 05:34:49,236 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:34:49,236 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,237 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,238 - INFO - Selected test months by year:
+2025-05-03 05:34:49,238 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,238 - INFO - Testing data: 0 rows
+2025-05-03 05:34:49,239 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:34:49,239 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,240 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,241 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,241 - INFO - Testing data: 0 rows
+2025-05-03 05:34:49,242 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:34:49,243 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,243 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,244 - INFO - Random split created with 0 test samples
+2025-05-03 05:34:49,244 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,244 - INFO - Testing data: 0 rows
+2025-05-03 05:34:49,245 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:34:49,245 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,246 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,246 - INFO - Selected test months by year:
+2025-05-03 05:34:49,247 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,247 - INFO - Testing data: 0 rows
+2025-05-03 05:34:49,248 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:34:49,248 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:34:49,249 - INFO - Dataset spans 0 years: []
+2025-05-03 05:34:49,251 - INFO - Training data: 0 rows
+2025-05-03 05:34:49,251 - INFO - Testing data: 0 rows
+2025-05-03 05:39:52,684 - INFO - Successfully imported from config module
+2025-05-03 05:39:54,171 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:39:54,173 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:39:54,177 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:39:54,185 - INFO - Random split created with 26412 test samples
+2025-05-03 05:39:54,190 - INFO - Training data: 105160 rows
+2025-05-03 05:39:54,190 - INFO - Testing data: 26412 rows
+2025-05-03 05:39:54,527 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:39:54,528 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:39:54,532 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:39:54,539 - INFO - Selected test months by year:
+2025-05-03 05:39:54,539 - INFO -   2020: ['October', 'November']
+2025-05-03 05:39:54,539 - INFO -   2021: ['October', 'November']
+2025-05-03 05:39:54,539 - INFO -   2022: ['May', 'August']
+2025-05-03 05:39:54,539 - INFO -   2023: ['February', 'September']
+2025-05-03 05:39:54,547 - INFO - Training data: 108340 rows
+2025-05-03 05:39:54,548 - INFO - Testing data: 23232 rows
+2025-05-03 05:39:54,874 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:39:54,876 - WARNING - No datetime information found - using artificial time grouping
+2025-05-03 05:39:54,880 - INFO - Dataset spans 4 years: [2020, 2021, 2022, 2023]
+2025-05-03 05:39:54,966 - INFO - Training data: 105263 rows
+2025-05-03 05:39:54,967 - INFO - Testing data: 26309 rows
+2025-05-03 05:42:41,324 - INFO - Successfully imported from config module
+2025-05-03 05:49:19,768 - INFO - Successfully imported from config module
+2025-05-03 05:51:43,159 - INFO - Successfully imported from config module
+2025-05-03 05:51:44,557 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:51:44,558 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:44,569 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:44,573 - INFO - Random split created with 26412 test samples
+2025-05-03 05:51:44,575 - INFO - Training data: 105160 rows
+2025-05-03 05:51:44,575 - INFO - Testing data: 26412 rows
+2025-05-03 05:51:44,954 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:51:44,956 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:44,967 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:44,972 - INFO - Selected test months by year:
+2025-05-03 05:51:44,972 - INFO -   2021: ['October', 'November']
+2025-05-03 05:51:44,972 - INFO -   2022: ['October', 'November']
+2025-05-03 05:51:44,972 - INFO -   2023: ['May', 'August']
+2025-05-03 05:51:44,972 - INFO -   2024: ['February', 'October']
+2025-05-03 05:51:44,977 - INFO - Training data: 109189 rows
+2025-05-03 05:51:44,977 - INFO - Testing data: 22383 rows
+2025-05-03 05:51:45,341 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:51:45,343 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:45,351 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:45,411 - INFO - Training data: 105264 rows
+2025-05-03 05:51:45,411 - INFO - Testing data: 26308 rows
+2025-05-03 05:51:45,792 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:51:45,798 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:45,823 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:45,834 - INFO - Random split created with 26412 test samples
+2025-05-03 05:51:45,841 - INFO - Training data: 105160 rows
+2025-05-03 05:51:45,841 - INFO - Testing data: 26412 rows
+2025-05-03 05:51:47,454 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:51:47,461 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:47,488 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:47,497 - INFO - Selected test months by year:
+2025-05-03 05:51:47,497 - INFO -   2021: ['October', 'November']
+2025-05-03 05:51:47,497 - INFO -   2022: ['October', 'November']
+2025-05-03 05:51:47,497 - INFO -   2023: ['May', 'August']
+2025-05-03 05:51:47,497 - INFO -   2024: ['February', 'October']
+2025-05-03 05:51:47,515 - INFO - Training data: 109189 rows
+2025-05-03 05:51:47,515 - INFO - Testing data: 22383 rows
+2025-05-03 05:51:49,157 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:51:49,164 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:49,190 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:49,271 - INFO - Training data: 105264 rows
+2025-05-03 05:51:49,271 - INFO - Testing data: 26308 rows
+2025-05-03 05:51:50,972 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 05:51:50,980 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:51,007 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:51,017 - INFO - Random split created with 26412 test samples
+2025-05-03 05:51:51,026 - INFO - Training data: 105160 rows
+2025-05-03 05:51:51,026 - INFO - Testing data: 26412 rows
+2025-05-03 05:51:52,999 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 05:51:53,008 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:53,039 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:53,051 - INFO - Selected test months by year:
+2025-05-03 05:51:53,051 - INFO -   2021: ['October', 'November']
+2025-05-03 05:51:53,051 - INFO -   2022: ['October', 'November']
+2025-05-03 05:51:53,051 - INFO -   2023: ['May', 'August']
+2025-05-03 05:51:53,051 - INFO -   2024: ['February', 'October']
+2025-05-03 05:51:53,070 - INFO - Training data: 109189 rows
+2025-05-03 05:51:53,070 - INFO - Testing data: 22383 rows
+2025-05-03 05:51:54,978 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 05:51:54,987 - INFO - Using provided datetime column: original_datetime
+2025-05-03 05:51:55,068 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 05:51:55,148 - INFO - Training data: 105264 rows
+2025-05-03 05:51:55,148 - INFO - Testing data: 26308 rows
+2025-05-03 13:26:44,302 - INFO - Successfully imported from config module
+2025-05-03 13:27:04,438 - INFO - Successfully imported from config module
+2025-05-03 13:27:05,848 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:27:05,850 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:05,861 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:05,864 - INFO - Random split created with 26412 test samples
+2025-05-03 13:27:05,867 - INFO - Training data: 105160 rows
+2025-05-03 13:27:05,867 - INFO - Testing data: 26412 rows
+2025-05-03 13:27:06,222 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:27:06,223 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:06,234 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:06,239 - INFO - Selected test months by year:
+2025-05-03 13:27:06,239 - INFO -   2021: ['October', 'November']
+2025-05-03 13:27:06,239 - INFO -   2022: ['October', 'November']
+2025-05-03 13:27:06,239 - INFO -   2023: ['May', 'August']
+2025-05-03 13:27:06,239 - INFO -   2024: ['February', 'October']
+2025-05-03 13:27:06,243 - INFO - Training data: 109189 rows
+2025-05-03 13:27:06,243 - INFO - Testing data: 22383 rows
+2025-05-03 13:27:06,587 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:27:06,588 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:06,596 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:06,653 - INFO - Training data: 105264 rows
+2025-05-03 13:27:06,654 - INFO - Testing data: 26308 rows
+2025-05-03 13:27:07,028 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:27:07,034 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:07,060 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:07,070 - INFO - Random split created with 26412 test samples
+2025-05-03 13:27:07,077 - INFO - Training data: 105160 rows
+2025-05-03 13:27:07,077 - INFO - Testing data: 26412 rows
+2025-05-03 13:27:08,650 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:27:08,657 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:08,683 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:08,691 - INFO - Selected test months by year:
+2025-05-03 13:27:08,691 - INFO -   2021: ['October', 'November']
+2025-05-03 13:27:08,691 - INFO -   2022: ['October', 'November']
+2025-05-03 13:27:08,691 - INFO -   2023: ['May', 'August']
+2025-05-03 13:27:08,691 - INFO -   2024: ['February', 'October']
+2025-05-03 13:27:08,708 - INFO - Training data: 109189 rows
+2025-05-03 13:27:08,708 - INFO - Testing data: 22383 rows
+2025-05-03 13:27:10,221 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:27:10,228 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:10,259 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:10,340 - INFO - Training data: 105264 rows
+2025-05-03 13:27:10,340 - INFO - Testing data: 26308 rows
+2025-05-03 13:27:11,934 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:27:11,942 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:11,973 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:11,986 - INFO - Random split created with 26412 test samples
+2025-05-03 13:27:11,995 - INFO - Training data: 105160 rows
+2025-05-03 13:27:11,995 - INFO - Testing data: 26412 rows
+2025-05-03 13:27:13,825 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:27:13,833 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:13,864 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:13,875 - INFO - Selected test months by year:
+2025-05-03 13:27:13,876 - INFO -   2021: ['October', 'November']
+2025-05-03 13:27:13,876 - INFO -   2022: ['October', 'November']
+2025-05-03 13:27:13,876 - INFO -   2023: ['May', 'August']
+2025-05-03 13:27:13,876 - INFO -   2024: ['February', 'October']
+2025-05-03 13:27:13,895 - INFO - Training data: 109189 rows
+2025-05-03 13:27:13,896 - INFO - Testing data: 22383 rows
+2025-05-03 13:27:15,710 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:27:15,719 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:27:15,803 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:27:15,893 - INFO - Training data: 105264 rows
+2025-05-03 13:27:15,893 - INFO - Testing data: 26308 rows
+2025-05-03 13:33:02,613 - INFO - Successfully imported from config module
+2025-05-03 13:33:03,993 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:33:03,994 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:04,005 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:04,008 - INFO - Random split created with 26412 test samples
+2025-05-03 13:33:04,010 - INFO - Training data: 105160 rows
+2025-05-03 13:33:04,010 - INFO - Testing data: 26412 rows
+2025-05-03 13:33:04,363 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:33:04,364 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:04,376 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:04,380 - INFO - Selected test months by year:
+2025-05-03 13:33:04,380 - INFO -   2021: ['October', 'November']
+2025-05-03 13:33:04,380 - INFO -   2022: ['October', 'November']
+2025-05-03 13:33:04,380 - INFO -   2023: ['May', 'August']
+2025-05-03 13:33:04,380 - INFO -   2024: ['February', 'October']
+2025-05-03 13:33:04,384 - INFO - Training data: 109189 rows
+2025-05-03 13:33:04,385 - INFO - Testing data: 22383 rows
+2025-05-03 13:33:04,722 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:33:04,723 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:04,732 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:04,789 - INFO - Training data: 105264 rows
+2025-05-03 13:33:04,789 - INFO - Testing data: 26308 rows
+2025-05-03 13:33:05,165 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:33:05,171 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:05,198 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:05,206 - INFO - Random split created with 26412 test samples
+2025-05-03 13:33:05,213 - INFO - Training data: 105160 rows
+2025-05-03 13:33:05,213 - INFO - Testing data: 26412 rows
+2025-05-03 13:33:06,710 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:33:06,717 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:06,743 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:06,751 - INFO - Selected test months by year:
+2025-05-03 13:33:06,751 - INFO -   2021: ['October', 'November']
+2025-05-03 13:33:06,751 - INFO -   2022: ['October', 'November']
+2025-05-03 13:33:06,751 - INFO -   2023: ['May', 'August']
+2025-05-03 13:33:06,751 - INFO -   2024: ['February', 'October']
+2025-05-03 13:33:06,767 - INFO - Training data: 109189 rows
+2025-05-03 13:33:06,767 - INFO - Testing data: 22383 rows
+2025-05-03 13:33:08,337 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:33:08,343 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:08,369 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:08,448 - INFO - Training data: 105264 rows
+2025-05-03 13:33:08,448 - INFO - Testing data: 26308 rows
+2025-05-03 13:33:10,050 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:33:10,058 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:10,089 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:10,103 - INFO - Random split created with 26412 test samples
+2025-05-03 13:33:10,111 - INFO - Training data: 105160 rows
+2025-05-03 13:33:10,111 - INFO - Testing data: 26412 rows
+2025-05-03 13:33:11,927 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 13:33:11,935 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:11,965 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:11,977 - INFO - Selected test months by year:
+2025-05-03 13:33:11,977 - INFO -   2021: ['October', 'November']
+2025-05-03 13:33:11,977 - INFO -   2022: ['October', 'November']
+2025-05-03 13:33:11,977 - INFO -   2023: ['May', 'August']
+2025-05-03 13:33:11,977 - INFO -   2024: ['February', 'October']
+2025-05-03 13:33:11,996 - INFO - Training data: 109189 rows
+2025-05-03 13:33:11,996 - INFO - Testing data: 22383 rows
+2025-05-03 13:33:13,808 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 13:33:13,816 - INFO - Using provided datetime column: original_datetime
+2025-05-03 13:33:13,900 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:33:13,985 - INFO - Training data: 105264 rows
+2025-05-03 13:33:13,985 - INFO - Testing data: 26308 rows
+2025-05-03 13:58:52,646 - INFO - Successfully imported from config module
+2025-05-03 13:58:54,050 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 13:58:54,051 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 13:58:54,055 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 13:58:54,061 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 13:58:54,065 - INFO - Random split created with 26412 test samples
+2025-05-03 13:58:54,068 - INFO - Training data: 105160 rows
+2025-05-03 13:58:54,068 - INFO - Testing data: 26412 rows
+2025-05-03 14:02:27,606 - INFO - Successfully imported from config module
+2025-05-03 14:02:29,109 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 14:02:29,109 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:02:29,113 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:02:29,121 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:02:29,125 - INFO - Random split created with 26412 test samples
+2025-05-03 14:02:29,127 - INFO - Training data: 105160 rows
+2025-05-03 14:02:29,128 - INFO - Testing data: 26412 rows
+2025-05-03 14:02:29,478 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 14:02:29,478 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:02:29,482 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:02:29,488 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:02:29,493 - INFO - Selected test months by year:
+2025-05-03 14:02:29,493 - INFO -   2021: ['October', 'November']
+2025-05-03 14:02:29,493 - INFO -   2022: ['October', 'November']
+2025-05-03 14:02:29,493 - INFO -   2023: ['May', 'August']
+2025-05-03 14:02:29,493 - INFO -   2024: ['February', 'October']
+2025-05-03 14:02:29,498 - INFO - Training data: 109189 rows
+2025-05-03 14:02:29,498 - INFO - Testing data: 22383 rows
+2025-05-03 14:02:29,839 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 14:02:29,839 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:02:29,842 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:02:29,848 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:38,970 - INFO - Successfully imported from config module
+2025-05-03 14:04:40,340 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 14:04:40,340 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:40,345 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:40,350 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:40,354 - INFO - Random split created with 26412 test samples
+2025-05-03 14:04:40,357 - INFO - Training data: 105160 rows
+2025-05-03 14:04:40,357 - INFO - Testing data: 26412 rows
+2025-05-03 14:04:40,712 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 14:04:40,712 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:40,715 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:40,721 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:40,727 - INFO - Selected test months by year:
+2025-05-03 14:04:40,727 - INFO -   2021: ['October', 'November']
+2025-05-03 14:04:40,727 - INFO -   2022: ['October', 'November']
+2025-05-03 14:04:40,727 - INFO -   2023: ['May', 'August']
+2025-05-03 14:04:40,727 - INFO -   2024: ['February', 'October']
+2025-05-03 14:04:40,732 - INFO - Training data: 109189 rows
+2025-05-03 14:04:40,732 - INFO - Testing data: 22383 rows
+2025-05-03 14:04:41,081 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 14:04:41,081 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:41,084 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:41,090 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:41,146 - INFO - Training data: 105264 rows
+2025-05-03 14:04:41,146 - INFO - Testing data: 26308 rows
+2025-05-03 14:04:41,533 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 14:04:41,533 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:41,547 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:41,553 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:41,565 - INFO - Random split created with 26412 test samples
+2025-05-03 14:04:41,573 - INFO - Training data: 105160 rows
+2025-05-03 14:04:41,573 - INFO - Testing data: 26412 rows
+2025-05-03 14:04:43,117 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 14:04:43,117 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:43,131 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:43,136 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:43,145 - INFO - Selected test months by year:
+2025-05-03 14:04:43,145 - INFO -   2021: ['October', 'November']
+2025-05-03 14:04:43,145 - INFO -   2022: ['October', 'November']
+2025-05-03 14:04:43,145 - INFO -   2023: ['May', 'August']
+2025-05-03 14:04:43,145 - INFO -   2024: ['February', 'October']
+2025-05-03 14:04:43,161 - INFO - Training data: 109189 rows
+2025-05-03 14:04:43,162 - INFO - Testing data: 22383 rows
+2025-05-03 14:04:44,718 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 14:04:44,718 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:44,732 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:44,738 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:44,811 - INFO - Training data: 105264 rows
+2025-05-03 14:04:44,811 - INFO - Testing data: 26308 rows
+2025-05-03 14:04:46,385 - INFO - Using 'fully_random' split strategy with 20% test fraction
+2025-05-03 14:04:46,385 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:46,401 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:46,407 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:46,421 - INFO - Random split created with 26412 test samples
+2025-05-03 14:04:46,429 - INFO - Training data: 105160 rows
+2025-05-03 14:04:46,429 - INFO - Testing data: 26412 rows
+2025-05-03 14:04:48,229 - INFO - Using 'month_based' split strategy with 20% test fraction
+2025-05-03 14:04:48,229 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:48,245 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:48,306 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:48,315 - INFO - Selected test months by year:
+2025-05-03 14:04:48,315 - INFO -   2021: ['October', 'November']
+2025-05-03 14:04:48,315 - INFO -   2022: ['October', 'November']
+2025-05-03 14:04:48,315 - INFO -   2023: ['May', 'August']
+2025-05-03 14:04:48,315 - INFO -   2024: ['February', 'October']
+2025-05-03 14:04:48,334 - INFO - Training data: 109189 rows
+2025-05-03 14:04:48,334 - INFO - Testing data: 22383 rows
+2025-05-03 14:04:50,139 - INFO - Using 'seasonal_block' split strategy with 20% test fraction
+2025-05-03 14:04:50,139 - INFO - Sorting data based on provided datetime column: original_datetime
+2025-05-03 14:04:50,156 - INFO - Using provided datetime column for time grouping: original_datetime
+2025-05-03 14:04:50,162 - INFO - Dataset spans 4 years: [2021, 2022, 2023, 2024]
+2025-05-03 14:04:50,238 - INFO - Training data: 105264 rows
+2025-05-03 14:04:50,238 - INFO - Testing data: 26308 rows
+2025-05-13 23:58:19,347 - INFO - Successfully imported from config module
+2025-05-13 23:58:20,893 - INFO - === Energy Load Prediction Data Preparation ===
+2025-05-13 23:58:20,893 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/DATA
+2025-05-13 23:58:20,893 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/DATA/split_data
+2025-05-13 23:58:20,894 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS
+2025-05-13 23:58:20,894 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR
+2025-05-13 23:58:20,894 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data
+2025-05-13 23:58:20,894 - INFO - Searching recursively for merged data file...
+2025-05-13 23:58:20,895 - ERROR - Could not find merged data file!
+2025-05-13 23:58:20,895 - ERROR - Failed to find merged data. Exiting.
+2025-05-14 00:47:59,759 - INFO - Successfully imported from config module
+2025-05-14 00:52:06,339 - INFO - Successfully imported from config module
+2025-05-14 00:52:07,261 - INFO - Loaded paths from config.py
+2025-05-14 00:56:43,313 - INFO - Successfully imported from config module
+2025-05-14 00:56:44,256 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 00:56:44,256 - ERROR - File does not exist: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 00:56:44,256 - INFO - Handling missing values...
+2025-05-14 22:40:53,564 - INFO - Successfully imported from config module
+2025-05-14 22:45:34,007 - INFO - Successfully imported from config module
+2025-05-14 22:45:35,648 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 22:45:35,648 - ERROR - File does not exist: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 22:45:35,648 - INFO - Handling missing values...
+2025-05-14 22:59:33,237 - INFO - Successfully imported from config module
+2025-05-14 22:59:34,165 - INFO - === Energy Load Prediction Data Preparation ===
+2025-05-14 22:59:34,165 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/DATA
+2025-05-14 22:59:34,165 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/DATA/split_data
+2025-05-14 22:59:34,165 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS
+2025-05-14 22:59:34,165 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR
+2025-05-14 22:59:34,165 - INFO - Created/verified directory: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data
+2025-05-14 22:59:34,165 - INFO - Searching recursively for merged data file...
+2025-05-14 22:59:34,182 - ERROR - Could not find merged data file!
+2025-05-14 22:59:34,182 - ERROR - Failed to find merged data. Exiting.
+2025-05-14 23:02:36,435 - INFO - Successfully imported from config module
+2025-05-14 23:02:37,365 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:07:13,943 - INFO - Successfully imported from config module
+2025-05-14 23:07:14,888 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:07:14,888 - ERROR - Missing news data: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/aggregated_data/aggregated_data/aggregated_gkg_15min.csv
+2025-05-14 23:09:01,963 - INFO - Successfully imported from config module
+2025-05-14 23:09:02,907 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:09:02,907 - ERROR - Missing weather data: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/aggregated_data/combined_weather_energy_15min.csv
+2025-05-14 23:25:04,068 - INFO - Successfully imported from config module
+2025-05-14 23:25:05,030 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:25:05,030 - ERROR - File does not exist: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:30:56,643 - INFO - Successfully imported from config module
+2025-05-14 23:32:18,492 - INFO - Successfully imported from config module
+2025-05-14 23:33:43,913 - INFO - Successfully imported from config module
+2025-05-14 23:33:44,847 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:33:44,847 - ERROR - File does not exist: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:43:24,967 - INFO - Successfully imported from config module
+2025-05-14 23:43:25,896 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:43:25,896 - ERROR - Missing weather data: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/aggregated_data/combined_weather_energy_15min.csv
+2025-05-14 23:45:07,468 - INFO - Successfully imported from config module
+2025-05-14 23:45:08,475 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:45:08,971 - INFO - Merged shape: (131572, 53)
+2025-05-14 23:45:08,971 - INFO - Handling missing values...
+2025-05-14 23:45:08,977 - INFO - Total missing values before handling: 180
+2025-05-14 23:45:09,080 - INFO - Missing values after handling: 0
+2025-05-14 23:45:09,080 - INFO - Successfully filled all missing values
+2025-05-14 23:45:09,080 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:45:09,108 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:45:09,270 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-14 23:45:09,315 - INFO - Successfully imported from config module
+2025-05-14 23:47:33,078 - INFO - Successfully imported from config module
+2025-05-14 23:47:34,021 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:47:34,443 - INFO - Merged shape: (131572, 53)
+2025-05-14 23:47:34,443 - INFO - Handling missing values...
+2025-05-14 23:47:34,448 - INFO - Total missing values before handling: 180
+2025-05-14 23:47:34,550 - INFO - Missing values after handling: 0
+2025-05-14 23:47:34,550 - INFO - Successfully filled all missing values
+2025-05-14 23:47:34,550 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:47:34,580 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:47:34,713 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-14 23:47:34,750 - INFO - Successfully imported from config module
+2025-05-14 23:48:10,637 - INFO - Successfully imported from config module
+2025-05-14 23:48:11,569 - INFO - === Running Full Data Preparation ===
+2025-05-14 23:48:11,992 - INFO - Merged shape: (131572, 53)
+2025-05-14 23:48:11,992 - INFO - Handling missing values...
+2025-05-14 23:48:11,997 - INFO - Total missing values before handling: 180
+2025-05-14 23:48:12,094 - INFO - Missing values after handling: 0
+2025-05-14 23:48:12,094 - INFO - Successfully filled all missing values
+2025-05-14 23:48:12,094 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:48:12,122 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:48:12,255 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-14 23:48:12,293 - INFO - Successfully imported from config module
+2025-05-14 23:48:18,373 - INFO - ✅ Final merged file saved at: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:48:18,373 - INFO - ✅ Preparation complete.
+2025-05-14 23:48:42,474 - INFO - Successfully imported from config module
+2025-05-14 23:48:43,387 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:48:43,852 - WARNING - No datetime column found - data will not have time index
+2025-05-14 23:48:43,852 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-14 23:48:43,852 - INFO - Handling missing values...
+2025-05-14 23:48:43,859 - INFO - Total missing values before handling: 0
+2025-05-14 23:48:43,965 - INFO - Missing values after handling: 0
+2025-05-14 23:48:43,965 - INFO - Successfully filled all missing values
+2025-05-14 23:48:43,967 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:48:43,996 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:48:44,133 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-14 23:51:25,435 - INFO - Successfully imported from config module
+2025-05-14 23:51:26,371 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:51:26,851 - WARNING - No datetime column found - data will not have time index
+2025-05-14 23:51:26,851 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-14 23:51:26,851 - INFO - Handling missing values...
+2025-05-14 23:51:26,859 - INFO - Total missing values before handling: 0
+2025-05-14 23:51:26,964 - INFO - Missing values after handling: 0
+2025-05-14 23:51:26,964 - INFO - Successfully filled all missing values
+2025-05-14 23:51:26,966 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:51:26,997 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:51:27,137 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-14 23:57:09,799 - INFO - Successfully imported from config module
+2025-05-14 23:57:10,747 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-14 23:57:11,228 - WARNING - No datetime column found - data will not have time index
+2025-05-14 23:57:11,228 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-14 23:57:11,228 - INFO - Handling missing values...
+2025-05-14 23:57:11,236 - INFO - Total missing values before handling: 0
+2025-05-14 23:57:11,348 - INFO - Missing values after handling: 0
+2025-05-14 23:57:11,349 - INFO - Successfully filled all missing values
+2025-05-14 23:57:11,350 - INFO - Handling outliers using 'robust' method...
+2025-05-14 23:57:11,379 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-14 23:57:11,520 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:43:25,346 - INFO - Successfully imported from config module
+2025-05-15 11:43:27,041 - INFO - === Running Full Data Preparation ===
+2025-05-15 11:43:27,617 - INFO - Merged shape: (131572, 53)
+2025-05-15 11:43:27,617 - INFO - Handling missing values...
+2025-05-15 11:43:27,623 - INFO - Total missing values before handling: 180
+2025-05-15 11:43:27,767 - INFO - Missing values after handling: 0
+2025-05-15 11:43:27,767 - INFO - Successfully filled all missing values
+2025-05-15 11:43:27,769 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:43:27,803 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:43:27,975 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:43:28,012 - INFO - Successfully imported from config module
+2025-05-15 11:43:33,364 - INFO - ✅ Final merged file saved at: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:43:33,364 - INFO - ✅ Preparation complete.
+2025-05-15 11:44:07,351 - INFO - Successfully imported from config module
+2025-05-15 11:44:08,319 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:44:08,824 - WARNING - No datetime column found - data will not have time index
+2025-05-15 11:44:08,824 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 11:44:08,824 - INFO - Handling missing values...
+2025-05-15 11:44:08,832 - INFO - Total missing values before handling: 0
+2025-05-15 11:44:08,933 - INFO - Missing values after handling: 0
+2025-05-15 11:44:08,933 - INFO - Successfully filled all missing values
+2025-05-15 11:44:08,935 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:44:08,964 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:44:09,101 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:48:26,126 - INFO - Successfully imported from config module
+2025-05-15 11:48:27,041 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:48:27,540 - WARNING - No datetime column found - data will not have time index
+2025-05-15 11:48:27,541 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 11:48:27,541 - INFO - Handling missing values...
+2025-05-15 11:48:27,548 - INFO - Total missing values before handling: 0
+2025-05-15 11:48:27,652 - INFO - Missing values after handling: 0
+2025-05-15 11:48:27,652 - INFO - Successfully filled all missing values
+2025-05-15 11:48:27,654 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:48:27,682 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:48:27,830 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:49:38,204 - INFO - Successfully imported from config module
+2025-05-15 11:49:39,118 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:49:39,596 - WARNING - No datetime column found - data will not have time index
+2025-05-15 11:49:39,596 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 11:49:39,596 - INFO - Handling missing values...
+2025-05-15 11:49:39,603 - INFO - Total missing values before handling: 0
+2025-05-15 11:49:39,705 - INFO - Missing values after handling: 0
+2025-05-15 11:49:39,705 - INFO - Successfully filled all missing values
+2025-05-15 11:49:39,707 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:49:39,736 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:49:39,872 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:54:03,884 - INFO - Successfully imported from config module
+2025-05-15 11:54:04,793 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:54:05,252 - WARNING - No datetime column found - data will not have time index
+2025-05-15 11:54:05,252 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 11:54:05,252 - INFO - Handling missing values...
+2025-05-15 11:54:05,259 - INFO - Total missing values before handling: 0
+2025-05-15 11:54:05,357 - INFO - Missing values after handling: 0
+2025-05-15 11:54:05,358 - INFO - Successfully filled all missing values
+2025-05-15 11:54:05,360 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:54:05,389 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:54:05,527 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 11:57:08,517 - INFO - Successfully imported from config module
+2025-05-15 11:57:09,419 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 11:57:09,877 - WARNING - No datetime column found - data will not have time index
+2025-05-15 11:57:09,877 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 11:57:09,877 - INFO - Handling missing values...
+2025-05-15 11:57:09,884 - INFO - Total missing values before handling: 0
+2025-05-15 11:57:09,983 - INFO - Missing values after handling: 0
+2025-05-15 11:57:09,983 - INFO - Successfully filled all missing values
+2025-05-15 11:57:09,985 - INFO - Handling outliers using 'robust' method...
+2025-05-15 11:57:10,013 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 11:57:10,149 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-15 12:02:36,921 - INFO - Successfully imported from config module
+2025-05-15 12:02:37,826 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-15 12:02:38,287 - WARNING - No datetime column found - data will not have time index
+2025-05-15 12:02:38,287 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-15 12:02:38,287 - INFO - Handling missing values...
+2025-05-15 12:02:38,294 - INFO - Total missing values before handling: 0
+2025-05-15 12:02:38,392 - INFO - Missing values after handling: 0
+2025-05-15 12:02:38,392 - INFO - Successfully filled all missing values
+2025-05-15 12:02:38,395 - INFO - Handling outliers using 'robust' method...
+2025-05-15 12:02:38,424 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-15 12:02:38,560 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-16 01:20:19,849 - INFO - Successfully imported from config module
+2025-05-16 01:20:21,548 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/Weather_Energy/weather_energy_15min.csv
+2025-05-16 01:20:21,548 - ERROR - File does not exist: /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/Weather_Energy/weather_energy_15min.csv
+2025-05-16 01:22:42,073 - INFO - Successfully imported from config module
+2025-05-16 01:22:43,006 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/Weather_Energy/weather_energy_15min.csv
+2025-05-16 01:22:43,087 - INFO - Using timestamp as the datetime column
+2025-05-16 01:22:43,098 - INFO - Successfully loaded 131572 rows with 11 features
+2025-05-16 01:22:43,098 - INFO - Time range: 2021-01-01 00:30:00 to 2024-12-12 00:30:00
+2025-05-16 01:22:43,098 - INFO - Handling missing values...
+2025-05-16 01:22:43,100 - INFO - Total missing values before handling: 180
+2025-05-16 01:22:43,117 - INFO - Missing values after handling: 0
+2025-05-16 01:22:43,117 - INFO - Successfully filled all missing values
+2025-05-16 01:22:43,117 - INFO - Handling outliers using 'robust' method...
+2025-05-16 01:22:43,122 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 01:22:43,142 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-16 01:31:54,473 - INFO - Successfully imported from config module
+2025-05-16 01:31:55,406 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-16 01:31:55,871 - WARNING - No datetime column found - data will not have time index
+2025-05-16 01:31:55,871 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-16 01:31:55,871 - INFO - Handling missing values...
+2025-05-16 01:31:55,879 - INFO - Total missing values before handling: 0
+2025-05-16 01:31:56,004 - INFO - Missing values after handling: 0
+2025-05-16 01:31:56,004 - INFO - Successfully filled all missing values
+2025-05-16 01:31:56,007 - INFO - Handling outliers using 'robust' method...
+2025-05-16 01:31:56,039 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 01:31:56,184 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-16 02:09:52,822 - INFO - Successfully imported from config module
+2025-05-16 02:09:53,738 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/Weather_Energy/weather_energy_15min.csv
+2025-05-16 02:09:53,813 - INFO - Using timestamp as the datetime column
+2025-05-16 02:09:53,822 - INFO - Successfully loaded 131572 rows with 11 features
+2025-05-16 02:09:53,823 - INFO - Time range: 2021-01-01 00:30:00 to 2024-12-12 00:30:00
+2025-05-16 02:09:53,823 - INFO - Handling missing values...
+2025-05-16 02:09:53,824 - INFO - Total missing values before handling: 180
+2025-05-16 02:09:53,839 - INFO - Missing values after handling: 0
+2025-05-16 02:09:53,839 - INFO - Successfully filled all missing values
+2025-05-16 02:09:53,839 - INFO - Handling outliers using 'robust' method...
+2025-05-16 02:09:53,844 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 02:09:53,863 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-16 02:14:55,901 - INFO - Successfully imported from config module
+2025-05-16 02:14:56,800 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-16 02:14:57,256 - WARNING - No datetime column found - data will not have time index
+2025-05-16 02:14:57,256 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-16 02:14:57,256 - INFO - Handling missing values...
+2025-05-16 02:14:57,263 - INFO - Total missing values before handling: 0
+2025-05-16 02:14:57,368 - INFO - Missing values after handling: 0
+2025-05-16 02:14:57,368 - INFO - Successfully filled all missing values
+2025-05-16 02:14:57,370 - INFO - Handling outliers using 'robust' method...
+2025-05-16 02:14:57,401 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 02:14:57,539 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
+2025-05-16 04:12:45,850 - INFO - Successfully imported from config module
+2025-05-16 04:30:52,887 - INFO - Successfully imported from config module
+2025-05-16 04:30:54,365 - INFO - Loading data from /home/nikunj/Desktop/AI-Energy-Load-New-main/OUTPUT_DIR/merged_data/gkg_energy.csv
+2025-05-16 04:30:54,923 - WARNING - No datetime column found - data will not have time index
+2025-05-16 04:30:54,923 - INFO - Successfully loaded 131572 rows with 54 features
+2025-05-16 04:30:54,923 - INFO - Handling missing values...
+2025-05-16 04:30:54,931 - INFO - Total missing values before handling: 0
+2025-05-16 04:30:55,061 - INFO - Missing values after handling: 0
+2025-05-16 04:30:55,061 - INFO - Successfully filled all missing values
+2025-05-16 04:30:55,064 - INFO - Handling outliers using 'robust' method...
+2025-05-16 04:30:55,099 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 04:47:15,117 - INFO - Successfully imported from config module
+2025-05-16 04:47:16,512 - INFO - Handling missing values...
+2025-05-16 04:47:16,516 - INFO - Total missing values before handling: 0
+2025-05-16 04:47:16,604 - INFO - Missing values after handling: 0
+2025-05-16 04:47:16,604 - INFO - Successfully filled all missing values
+2025-05-16 04:47:16,604 - INFO - Handling outliers using 'robust' method...
+2025-05-16 04:47:16,633 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 04:55:04,966 - INFO - Successfully imported from config module
+2025-05-16 04:55:06,388 - INFO - Handling missing values...
+2025-05-16 04:55:06,394 - INFO - Total missing values before handling: 0
+2025-05-16 04:55:06,500 - INFO - Missing values after handling: 0
+2025-05-16 04:55:06,500 - INFO - Successfully filled all missing values
+2025-05-16 04:55:06,500 - INFO - Handling outliers using 'robust' method...
+2025-05-16 04:55:06,530 - INFO - Using RobustScaler for all features to handle outliers
+2025-05-16 04:55:06,665 - INFO - Saved robust scaler to /home/nikunj/Desktop/AI-Energy-Load-New-main/MODELS/robust_scaler.pkl
